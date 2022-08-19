@@ -1,0 +1,24 @@
+PODS:
+  - CLTypingLabel (0.4.0)
+  - STZPopupView (1.4.0)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - CLTypingLabel
+  - STZPopupView
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - CLTypingLabel
+    - STZPopupView
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  CLTypingLabel: 95a7d1faf7e3d1d952cd11cb0491d17d80c50934
+  STZPopupView: d70af3a927ae6afb9c9dd8c9a92d8b1d91bae5d0
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 87427f4521c1c3069d0e3fa9503adda073db834d
+
+COCOAPODS: 1.11.3
